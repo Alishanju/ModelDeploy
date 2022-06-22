@@ -2,7 +2,7 @@
 from flask import Flask,render_template,json,jsonify,request
 import pickle
 import numpy as np
-import requests
+#import requests
 
 #initialize the app
 
